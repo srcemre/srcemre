@@ -17,9 +17,6 @@
 
 - 📫 How to reach me **e.sarac@outlook.com**
 
-<hr>
-<div align="center"><img src="Assets/cat.gif" alt="Gif1" width="50%" /></div>
-
 
 <!--
 **srcemre/srcemre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
