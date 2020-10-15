@@ -18,7 +18,7 @@
 - 📫 How to reach me **e.sarac@outlook.com**
 
 <hr>
-<div align="center"><img src="Assets/cat.gif" alt="Gif1" /></div>
+<div align="center"><img src="Assets/cat.gif" alt="Gif1" width="50%" /></div>
 
 
 <!--
