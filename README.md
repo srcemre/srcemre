@@ -7,7 +7,10 @@
     <a href="https://www.linkedin.com/in/saracemre"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srcemre&theme=slateorange&show_icons=true" alt="srcemre" /></p>
+<p align="center">&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srcemre&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="srcemre" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=srcemre&show_icons=true&locale=en&theme=vision-friendly-dark"  width="420" alt="srcemre"/>
+</p>
 
 
 <hr>
